@@ -30,7 +30,9 @@ python -m spacy download en
 ```bash
 pip install -r requirements.txt
 ```
-* run the model
+
+## Training
+* Train with command, optional arguments could be found in [train.py](/train.py)
 ```bash
 python3 train.py 
   --model_name senticgcn 
