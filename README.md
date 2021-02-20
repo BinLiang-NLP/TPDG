@@ -1,7 +1,11 @@
-# TPDG 
-__TPDG__ __T__arget-adaptive __P__ragmatics __D__ependency __G__raph
-- Code and preprocessed dataset for paper in WWW2021 titled "Target-adaptive Graph for Cross-target Stance Detection".
-- Bin Liang, Yonghao Fu and Lin Gui et al.
+# Introduction
+This repository was used in our paper:  
+  
+**Target-adaptive Graph for Cross-target Stance Detection**
+<br>
+Bin Liang, Rongdi Yin, Lin Gui<sup>\*</sup>, Jiachen Du, Ruifeng Xu<sup>\*</sup>. *Proceedings of WWW 2021*
+  
+Please cite our paper and kindly give a star for this repository if you use this code.
 
 # Requirements
 - pytorch >= 0.4.0
