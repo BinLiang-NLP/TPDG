@@ -30,7 +30,6 @@ python -m spacy download en
 ```bash
 pip install -r requirements.txt
 ```
-
 ## Training
 * Train with command, optional arguments could be found in [train.py](/train.py)
 ```bash
