@@ -1,0 +1,101 @@
+ID	Target	Tweet	Stance	Opinion towards	Sentiment
+1	Hillary Clinton	@tedcruz And, #HandOverTheServer she wiped clean + 30k deleted emails, explains dereliction of duty/lies re #Benghazi,etc #tcot #SemST	AGAINST	TARGET	NEGATIVE
+2	Hillary Clinton	Hillary is our best choice if we truly want to continue being a progressive nation. #Ohio #SemST	FAVOR	TARGET	POSITIVE
+3	Hillary Clinton	@TheView I think our country is ready for a female pres, it can't ever be Hillary #SemST	AGAINST	TARGET	NEGATIVE
+4	Hillary Clinton	I just gave an unhealthy amount of my hard-earned money away to the big gov't & untrustworthy IRS. #WhyImNotVotingForHillary #SemST	AGAINST	TARGET	NEGATIVE
+5	Hillary Clinton	@PortiaABoulger Thank you for adding me to your list #SemST	NONE	NO ONE	POSITIVE
+6	Hillary Clinton	Hillary can not win. Here's hoping the Dems offer a real candidate like Warren. #Warren2016 #SemST	AGAINST	TARGET	NEGATIVE
+7	Hillary Clinton	Respect FOR the law and respect BY the law Yes, needed desperately.  #BaltimoreRiots #SemST	NONE	OTHER	POSITIVE
+8	Hillary Clinton	I don't want to be appointed to an Ambassador post. #SemST	NONE	OTHER	NEGATIVE
+9	Hillary Clinton	#StopHillary2016 @HillaryClinton if there was a woman with integrity and honesty I would vote for such as woman president, NO #SemST	AGAINST	TARGET	NEGATIVE
+10	Hillary Clinton	@HillaryClinton End lawless #ClintonFoundation. Jail Butcher of #Benghazi. #Arrest rapist #BillClinton. #HillaryClinton #SemST	AGAINST	TARGET	NEGATIVE
+11	Hillary Clinton	Use your brain, keep Hillary out of the White House.Clinton2016 #SemST	AGAINST	TARGET	NEGATIVE
+12	Hillary Clinton	@HillaryClinton Hillary pandering with her logo. #ClintonFoundationscandal #ClintonCash #SemST	AGAINST	TARGET	NEGATIVE
+13	Hillary Clinton	@readyforHRC @HillaryClinton #HillaryClinton, the US presidency is a testament to the success of #women their role in the world #SemST	FAVOR	TARGET	POSITIVE
+14	Hillary Clinton	@CiaraAntaya cuz you know I'm such a feminist  #SemST	NONE	OTHER	NEITHER
+15	Hillary Clinton	2 million bogus followers on Twitter @HillaryClinton #WhyImNotVotingForHillary #SemST	AGAINST	TARGET	NEGATIVE
+16	Hillary Clinton	@lindasuhler : My name is Rebecca and my grandmother immigrated to Sunnybrook Farm. @twitchyteam #SemST	NONE	NO ONE	POSITIVE
+17	Hillary Clinton	Where's the campaign store is the real question? I am ready to buy some Hillary gear #SemST	FAVOR	TARGET	POSITIVE
+18	Hillary Clinton	It's a miracle, suddenly #Democrats don't mind having someone who voted for war. #SemST	AGAINST	TARGET	NEGATIVE
+19	Hillary Clinton	@smileitsalicia @greekgummybear2 now i can live in peace #SemST	NONE	NO ONE	POSITIVE
+20	Hillary Clinton	Hillary doesn't want to put anyone in prison anymore. Obviously worried about her own future. #SemST	AGAINST	TARGET	NEGATIVE
+21	Hillary Clinton	The only way I support Hillary was if Elizabeth Warren ran or Karl Marx was running #2016 #Clinton2016 #SemST	AGAINST	TARGET	NEGATIVE
+22	Hillary Clinton	@HomeOfUncleSam @ScotsFyre @RWNutjob1 @SA_Hartdegen She's too old to understand the internet...that she can be fact checked. #SemST	AGAINST	TARGET	NEGATIVE
+23	Hillary Clinton	Because Communist Breadlines are not my thing! #NoHillary #WhyImNotVotingForHillary #SemST	AGAINST	TARGET	NEGATIVE
+24	Hillary Clinton	@HillaryClinton bad wife, bad role model for women, bad lawyer, bad First Lady, bad Senator, horrible Secretary of State. #SemST	AGAINST	TARGET	NEGATIVE
+25	Hillary Clinton	Everything Hillary touches ends up being a scam, a lie, a cover-up, or a failure. William L. Just who we want as president. #SemST	AGAINST	TARGET	NEGATIVE
+26	Hillary Clinton	Yes HRC subject 2 dbl standard Smh Come on @billclinton @HillaryClinton U Knew @ClintonFdn Donations Would b Scrutinized; Spun! #SemST	AGAINST	TARGET	NEGATIVE
+27	Hillary Clinton	#Hillary to stop for #pizza today to garner the #Italian vote. #MSM is worthless. #libertynothillary #HillNo #SemST	AGAINST	TARGET	NEGATIVE
+28	Hillary Clinton	I want America to great again #WhyImNotVotingForHillary #SemST	AGAINST	TARGET	POSITIVE
+29	Hillary Clinton	March 8, 2016 Ohio is holding our Primaries! The date is subject to change. #Ohio #OurChampion #SemST	NONE	NO ONE	POSITIVE
+30	Hillary Clinton	@RIGHTZONE @WethePeoplePets Let's hope the VOTERS remember! #HillNo #SemST	AGAINST	TARGET	POSITIVE
+31	Hillary Clinton	Hillary Clinton has not driven a car since 1996. #clintonfakerealityshow #SemST	AGAINST	TARGET	NEGATIVE
+32	Hillary Clinton	@NaughtyBeyotch @TheRealMadman23  Don't care for #Fiorina, but it seems she taking the #sexist gut punches by the #media. #MSM #SemST	NONE	OTHER	NEGATIVE
+33	Hillary Clinton	@FoxNews @marthamaccallum @BillHemmer whose the opportunist now, #NoHillary2016 #SemST	AGAINST	TARGET	NEGATIVE
+34	Hillary Clinton	@HillaryClinton @WomenintheWorld we need to re-establish a #global system dominated by love and affection have #moral_humane RT #SemST	FAVOR	TARGET	POSITIVE
+35	Hillary Clinton	#Hillary is as transparent as a brick wall #LibertyNotHillary #SemST	AGAINST	TARGET	NEGATIVE
+36	Hillary Clinton	@WSJ . Clinton Foundation to keep accepting bribes from foreign governments #WhyImNotVotingForHillary #SemST	AGAINST	TARGET	NEGATIVE
+37	Hillary Clinton	@josephbenning I agree, these are better than what you had before, like a severe cold is better than pneumonia. Good luck. #SemST	NONE	OTHER	NEITHER
+38	Hillary Clinton	What are you afraid of @HillaryClinton? If you can't answer questions from the press, why do we want you as POTUS #SemST	AGAINST	TARGET	NEGATIVE
+39	Hillary Clinton	Sorry, Hillary's new normal folk image doesn't take away from Behgnazi & her 0 foreign policy successes as Secretary of State. #SemST	AGAINST	TARGET	NEGATIVE
+40	Hillary Clinton	CEO pay the target for 2016 election. From someone who makes more than most CEO's but you drank the Kool-Aid. #SemST	NONE	OTHER	NEGATIVE
+41	Hillary Clinton	@NBCNews including repealing the first amendment. Way to go #SemST	AGAINST	TARGET	NEGATIVE
+42	Hillary Clinton	@NBCNews Stop promoting @HillaryClinton. She is a liar. Just like her impeached husband. #WakeUpAmerica  #SemST	AGAINST	TARGET	NEGATIVE
+43	Hillary Clinton	Lets take back our country! Whos with me? No more Democrats!2016 #SemST	AGAINST	TARGET	POSITIVE
+44	Hillary Clinton	RT @AnthonyCumia: If Hillary IS elected, I have my transition team together to smoothly move me from a racist to a sexist. #SemST	AGAINST	TARGET	NEGATIVE
+45	Hillary Clinton	I'm #ThatChampion who got kicked off the #Watergate team due to misconduct.  #tcot #SemST	NONE	OTHER	NEGATIVE
+46	Hillary Clinton	.@HillaryClinton is a droid & someone's programmed her to say things - thinks she doesn't have to WORK to win so she ISN'T! #SemST	AGAINST	TARGET	NEGATIVE
+47	Hillary Clinton	@JVollmer08 @HillaryforIA #freedom_justice_equality_education for innovation and development to make #happy_life i Utopia #SemST	FAVOR	TARGET	POSITIVE
+48	Hillary Clinton	Probably not perfect for everyone--which I think is great. But this is the beginning of a conversation. #SemST	NONE	NO ONE	POSITIVE
+49	Hillary Clinton	I'm on the edge of my seat to start volunteering for @HillaryClinton 's presidential campaign!  So excited!!  #cantwait #SemST	FAVOR	TARGET	POSITIVE
+50	Hillary Clinton	RT @FutureTXLeader: Is everyone in #ElPaso #Texas ready for president #MarcoRubio #UTEP #NewAmericanCentury #2016 #Future #Rub... #SemST	AGAINST	OTHER	POSITIVE
+51	Legalization of Abortion	Just laid down the law on abortion in my bioethics class. #Catholic #SemST	AGAINST	TARGET	NEGATIVE
+52	Legalization of Abortion	@tooprettyclub Are you OK with #GOP males telling you what you can and can't do with your own body? #SemST	FAVOR	TARGET	NEGATIVE
+53	Legalization of Abortion	If you don't want your kid, put it up for adoption. #sorrynotsorry #SemST	AGAINST	TARGET	NEGATIVE
+54	Legalization of Abortion	@RedAlert -there should be a "stigma" to butchering pre-born children - its a horrendous crime against humanity.  #murder #SemST	AGAINST	TARGET	NEGATIVE
+55	Legalization of Abortion	But isn't that the problem then. Not enough faith. #gaystapo #socialism #SemST	NONE	OTHER	NEGATIVE
+56	Legalization of Abortion	Life is our first and most basic human right. #SemST	AGAINST	TARGET	POSITIVE
+57	Legalization of Abortion	Rise & Shine its a new day & you're alive. Thank God 4 another day of precious life. #Christian #Catholic #TeamJesus #SemST	AGAINST	TARGET	POSITIVE
+58	Legalization of Abortion	Lmao my school thinks giving women the right to an abortion is against feminism. They don't know feminism #wtf #SemST	FAVOR	TARGET	NEGATIVE
+59	Legalization of Abortion	@AsaSoltan putting abortion in with choices for women just won my heart over. Yaaaaaas! #shahs #SemST	FAVOR	TARGET	POSITIVE
+60	Legalization of Abortion	Last meeting of the year tonight! 7:00 pm in Case Hall room 334A. Come one come all! Pizza and pop will be provided! #SemST	NONE	NO ONE	POSITIVE
+61	Legalization of Abortion	FACT: 17% of today's population is equivalent to residents in New York, Florida, and Pennsylvania.  Where's the outrage for this?  #SemST	NONE	OTHER	NEGATIVE
+62	Legalization of Abortion	They say God isn't listening? Just look at that radar today. #prayfornepal #SemST	NONE	OTHER	POSITIVE
+63	Legalization of Abortion	If you believe in its power; then pray. #Nepal #Baltimore #ISIS #Kenya #GenderChange #Injustice #Slavery #Racism #MiddleEast #SemST	NONE	OTHER	POSITIVE
+64	Legalization of Abortion	Planned Parenthood lines its pockets while sacrificing women and children in need at the altar of abortion. #SemST	AGAINST	TARGET	NEGATIVE
+65	Legalization of Abortion	It is not progressive to try to resolve problems by eliminating a human life. - #PopeFrancis #SemST	AGAINST	TARGET	NEGATIVE
+66	Legalization of Abortion	RT @TheKeyisPrayer: "No law can give me the right to do what is wrong."  -Abraham Lincoln #SemST	AGAINST	TARGET	NEITHER
+67	Legalization of Abortion	We live in a world where people care more about religious rights than consent & reproductive rights.... #SemST	FAVOR	TARGET	NEGATIVE
+68	Legalization of Abortion	we remind ourselves that love means to be willing to give until it hurts - Mother Teresa #SemST	AGAINST	OTHER	POSITIVE
+69	Legalization of Abortion	Life, what a beautiful choice. Adoption. Not abortion. #SemST	AGAINST	TARGET	POSITIVE
+70	Legalization of Abortion	My teacher today basically said that embroyo's are nothing but skin + blood & that abortion was fine. #smartlady #SemST	FAVOR	TARGET	NEGATIVE
+71	Legalization of Abortion	@ShowTruth Keeping pregnant people safe is a great reason for abortion, though. #SemST	FAVOR	TARGET	POSITIVE
+72	Legalization of Abortion	@rosaryrevival When we #PrayTheRosary lest we forget to #Prayforpersecutedchurch #PrayForIsrael #PrayForUkraine #SemST	NONE	OTHER	POSITIVE
+73	Legalization of Abortion	#cogar @RefCom_ie get more #questions on #d #ballott! #ireland's #dail is stuck. We'll #help! #drugswar #landwar #etc. #tanks #SemST	NONE	OTHER	POSITIVE
+74	Legalization of Abortion	Yep. RT: "Defunding PP won't mean fewer abortions. It will mean more dead women. #prochoice" #1in3 #SemST	FAVOR	TARGET	POSITIVE
+75	Legalization of Abortion	@mrprolife You would force a woman to risk her health, sanity, and life, to continue a doomed pregnancy. Against her will. No. #SemST	FAVOR	TARGET	NEGATIVE
+76	Legalization of Abortion	Whether someone wants to have children or not should be completely up to the person carrying that pregnancy... #SemST	FAVOR	TARGET	POSITIVE
+77	Legalization of Abortion	I will agree to gay marriage if you agree to pro-life and then adopt babies that would have been aborted. #SemST	AGAINST	TARGET	NEGATIVE
+78	Legalization of Abortion	On Manila TV,Monday: #Pacquiao appeals to @IndonesiaPresident -don't execute #MaryJaneVeloso #deathRow #drugTrafficking #Christian #SemST	NONE	OTHER	NEGATIVE
+79	Legalization of Abortion	Too far? Sorry so is he #SemST	NONE	OTHER	NEGATIVE
+80	Legalization of Abortion	I watched #AfterTiller and it gave me a whole new perspective on a woman's right to choose. #womensRights #SemST	FAVOR	TARGET	POSITIVE
+81	Legalization of Abortion	@explicit0ceans I don't either. Why would you want to make people have kids? Esp when they're not prepared? Makes no sense. #SemST	FAVOR	TARGET	NEGATIVE
+82	Legalization of Abortion	True progressives work toward greater inclusion and protections for the marginalized. Standing up for the unborn is progressive! #SemST	AGAINST	TARGET	POSITIVE
+83	Legalization of Abortion	MT @ProLifePolitics- Senate vote on SC Pain-Capable Unborn Child Protection Act could come as early as Wed. Contact your senators! #SemST	AGAINST	TARGET	POSITIVE
+84	Legalization of Abortion	Equal pay for equal work? YES. Freedom from the fear of rape and sexual objectification? YES. The 'right' to abort? NO. #SemST	AGAINST	TARGET	NEGATIVE
+85	Legalization of Abortion	@explicit0ceans whoa whoa whoa. I don't care about you having sex, but when you're pregnant, there's another life involved. #SemST	AGAINST	TARGET	NEGATIVE
+86	Legalization of Abortion	Today I am grateful to have the right to control my body without govt influence. #antichoice leaders want to stop this. #abvote #SemST	FAVOR	TARGET	POSITIVE
+87	Legalization of Abortion	Sadly, most health insurance plans don't cover abortions, so the price can be quite high.... #SemST	FAVOR	TARGET	NEGATIVE
+88	Legalization of Abortion	@Britt_Ghiroli @mboyle1 But the Mayor of Baltimore said to give rioters to rioters. #BlackLivesMatter #Except2Democrats #Sanger #SemST	NONE	OTHER	NEGATIVE
+89	Legalization of Abortion	It is so much fun having younger friends who are expecting babies. #beentheredonethat #chooselife #SemST	AGAINST	TARGET	POSITIVE
+90	Legalization of Abortion	Why is it illegal to kill an unhatched eagle egg but its legal to kill an unborn human baby?isright #SemST	AGAINST	TARGET	NEGATIVE
+91	Legalization of Abortion	I refuse to let people like you shame and insult women for accessing healthcare. Sorry. Just no.  #SemST	FAVOR	OTHER	NEGATIVE
+92	Legalization of Abortion	pro-life? no you're more pro-birth then after that the baby can support itself!!! #makesnosense #prowomen #SemST	FAVOR	TARGET	NEGATIVE
+93	Legalization of Abortion	U know what isn't funny? Male politicians deciding what women should do with their body's. #SemST	FAVOR	OTHER	NEGATIVE
+94	Legalization of Abortion	I was born 4 months premature... I'm perfectly fine, somehow killing babies is legal in this country. #SemST	AGAINST	TARGET	NEGATIVE
+95	Legalization of Abortion	You can't kill someone cause you claim you made a mistake. If true nobody would go to jail for killing their spouse. #SemST	AGAINST	TARGET	NEGATIVE
+96	Legalization of Abortion	@Corey_Frizzell @PEILiberalParty and most Islanders have different definitions of "timely access". #irony #peipoli #peivotes #SemST	NONE	OTHER	NEGATIVE
+97	Legalization of Abortion	@Docjp Pressure? It's their job and they are failing miserably at keeping the promises they made.  #GOP #PJNET #Amnesty #Obamacare #SemST	NONE	OTHER	NEGATIVE
+98	Legalization of Abortion	I love how #liberals only accuse #conservatives of war on women when we don't want to fund #SemST	AGAINST	TARGET	NEGATIVE
+99	Legalization of Abortion	Help your friend figure out how they're going to get there and where to stay if they need to spend the night #SemST	NONE	NO ONE	POSITIVE
+100	Legalization of Abortion	@JimDDaniels1 Plenty of reasons for Christians not to support Hillary. Not the least of which in my mind is her stand (w/Dems) on #SemST	AGAINST	OTHER	NEGATIVE
