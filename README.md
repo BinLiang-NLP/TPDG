@@ -7,17 +7,17 @@ Bin Liang, Rongdi Yin, Lin Gui<sup>\*</sup>, Min Yang, Jiachen Du, Yulan He, Rui
   
 Please cite our paper and kindly give a star for this repository if you use this code.
 
-# Requirements
+## Requirements
 - pytorch >= 0.4.0
 - numpy >= 1.13.3
 - sklearn
 - python 3.6 / 3.7
 - transformers
 
-# Pretrained Models
+## Pretrained Models
 Download glove.42B.300d.zip from [glove website](https://nlp.stanford.edu/projects/glove/) and unzip in project root path.
 
-# Usage
+## Usage
 * Install [SpaCy](https://spacy.io/) package and language models with
 ```bash
 pip install spacy
