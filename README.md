@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 * run the model
 ```bash
-python train.py 
+python3 train.py 
   --model_name senticgcn 
   --dataset rest16 
   --save True 
