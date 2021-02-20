@@ -3,7 +3,7 @@ This repository was used in our paper:
   
 **Target-adaptive Graph for Cross-target Stance Detection**
 <br>
-Bin Liang, Rongdi Yin, Lin Gui<sup>\*</sup>, Min Yang, Jiachen Du, Yulan He, Ruifeng Xu<sup>\*</sup>. *Proceedings of WWW 2021*
+Bin Liang, Yonghao Fu, Lin Gui<sup>\*</sup>, Min Yang, Jiachen Du, Yulan He, Ruifeng Xu<sup>\*</sup>. *Proceedings of WWW 2021*
   
 Please cite our paper and kindly give a star for this repository if you use this code.
 
