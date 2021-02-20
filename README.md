@@ -18,8 +18,24 @@ Please cite our paper and kindly give a star for this repository if you use this
 Download glove.42B.300d.zip from [glove website](https://nlp.stanford.edu/projects/glove/) and unzip in project root path.
 
 # Usage
-> pip install -r requirements.txt
-> python3 train.py --model_name senticgcn --dataset rest16 --save True --learning_rate 1e-3 --batch_size 16 --hidden_dim 300
+* Install [SpaCy](https://spacy.io/) package and language models with
+```bash
+pip install spacy
+```
+and
+```bash
+python -m spacy download en
+```
+```bash
+pip install -r requirements.txt
+python3 train.py 
+  --model_name senticgcn 
+  --dataset rest16 
+  --save True 
+  --learning_rate 1e-3 
+  --batch_size 16 
+  --hidden_dim 300
+```
 
 
 
