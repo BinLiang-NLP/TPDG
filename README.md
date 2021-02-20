@@ -26,8 +26,12 @@ and
 ```bash
 python -m spacy download en
 ```
+* install requirements
 ```bash
 pip install -r requirements.txt
+```
+* run the model
+```bash
 python3 train.py 
   --model_name senticgcn 
   --dataset rest16 
