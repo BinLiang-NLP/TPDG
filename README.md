@@ -5,8 +5,6 @@ This repository was used in our paper:
 <br>
 Bin Liang, Yonghao Fu, Lin Gui<sup>\*</sup>, Min Yang, Jiachen Du, Yulan He, Ruifeng Xu<sup>\*</sup>. *Proceedings of WWW 2021*
 
-$\natural$
-
 Please cite our paper and kindly give a star for this repository if you use this code.
 
 ## Requirements
