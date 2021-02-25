@@ -1,6 +1,6 @@
 # Introduction
 This repository was used in our paper:  
-  
+
 **Target-adaptive Graph for Cross-target Stance Detection**
 <br>
 Bin Liang, Yonghao Fu, Lin Gui<sup>\*</sup>, Min Yang, Jiachen Du, Yulan He, Ruifeng Xu<sup>\*</sup>. *Proceedings of WWW 2021*
