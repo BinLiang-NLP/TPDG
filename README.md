@@ -20,15 +20,15 @@ Download glove.42B.300d.zip from [glove website](https://nlp.stanford.edu/projec
 ## Usage
 * Install [SpaCy](https://spacy.io/) package and language models with
 ```bash
-pip install spacy
+pip3 install spacy
 ```
 and
 ```bash
-python -m spacy download en
+python3 -m spacy download en
 ```
 * install requirements
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Training
