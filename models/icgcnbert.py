@@ -32,10 +32,7 @@ class ICGCNBert(BertPreTrainedModel):
     def __init__(self,config):
         super(ICGCNBert, self).__init__(config)
         self.config = config
-        # self.embed = nn.Embedding.from_pretrained(torch.tensor(embedding_matrix, dtype=torch.float))
-        # self.text_lstm = DynamicLSTM(opt.embed_dim, opt.hidden_dim, num_layers=1, batch_first=True, bidirectional=True)
         self.bert = BertModel(config)
-        # self.gcn_list = nn.ModuleList([GraphConvolution(config.hidden_size, config.hidden_size) for i in range(2*config.gcn_layers)])
         self.gcn1 = GraphConvolution(config.hidden_size, config.hidden_size)
         self.gcn2 = GraphConvolution(config.hidden_size, config.hidden_size)
         self.gcn3 = GraphConvolution(config.hidden_size, config.hidden_size)
