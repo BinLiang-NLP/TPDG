@@ -39,8 +39,6 @@ class ICGCNBert(BertPreTrainedModel):
         self.gcn4 = GraphConvolution(config.hidden_size, config.hidden_size)
         self.gcn5 = GraphConvolution(config.hidden_size, config.hidden_size)
         self.gcn6 = GraphConvolution(config.hidden_size, config.hidden_size)
-        # self.gcn7 = GraphConvolution(2*opt.hidden_dim, 2*opt.hidden_dim)
-        # self.gcn8 = GraphConvolution(2*opt.hidden_dim, 2*opt.hidden_dim)
 
         #self.gc3 = GraphConvolution(2*opt.hidden_dim, 2*opt.hidden_dim)
         #self.gc4 = GraphConvolution(2*opt.hidden_dim, 2*opt.hidden_dim)
