@@ -44,6 +44,28 @@ python3 train.py
 ```
 
 
+## Citation
 
+The BibTex of the citation is as follow:
+
+```bibtex
+@inproceedings{10.1145/3442381.3449790,
+author = {Liang, Bin and Fu, Yonghao and Gui, Lin and Yang, Min and Du, Jiachen and He, Yulan and Xu, Ruifeng},
+title = {Target-Adaptive Graph for Cross-Target Stance Detection},
+year = {2021},
+isbn = {9781450383127},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3442381.3449790},
+doi = {10.1145/3442381.3449790},
+abstract = { Target plays an essential role in stance detection of an opinionated review/claim, since the stance expressed in the text often depends on the target. In practice, we need to deal with targets unseen in the annotated training data. As such, detecting stance for an unknown or unseen target is an important research problem. This paper presents a novel approach that automatically identifies and adapts the target-dependent and target-independent roles that a word plays with respect to a specific target in stance expressions, so as to achieve cross-target stance detection. More concretely, we explore a novel solution of constructing heterogeneous target-adaptive pragmatics dependency graphs (TPDG) for each sentence towards a given target. An in-target graph is constructed to produce inherent pragmatics dependencies of words for a distinct target. In addition, another cross-target graph is constructed to develop the versatility of words across all targets for boosting the learning of dominant word-level stance expressions available to an unknown target. A novel graph-aware model with interactive Graphical Convolutional Network (GCN) blocks is developed to derive the target-adaptive graph representation of the context for stance detection. The experimental results on a number of benchmark datasets show that our proposed model outperforms state-of-the-art methods in cross-target stance detection.},
+booktitle = {Proceedings of the Web Conference 2021},
+pages = {3453–3464},
+numpages = {12},
+keywords = {graph networks, cross-target stance detection, opinion mining},
+location = {Ljubljana, Slovenia},
+series = {WWW '21}
+}
+```
 
 
